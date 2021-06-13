@@ -1,0 +1,65 @@
+
+------------ OPTIONAL HEADER ------------
+	0x6188		Address Of Entry Point (.text)
+
+------------ SECTION HEADERS ------------
+	.text
+		0x60ec		Virtual Size
+		0x1000		Virtual Address
+		0x6200		Size Of Raw Data
+		0x400		Pointer To Raw Data
+		0x0		Pointer To Relocations
+		0x0		Pointer To Line Numbers
+		0x0		Number Of Relocations
+		0x0		Number Of Line Numbers
+		0x60000020	Characteristics
+	.rdata
+		0x4a34		Virtual Size
+		0x8000		Virtual Address
+		0x4c00		Size Of Raw Data
+		0x6600		Pointer To Raw Data
+		0x0		Pointer To Relocations
+		0x0		Pointer To Line Numbers
+		0x0		Number Of Relocations
+		0x0		Number Of Line Numbers
+		0x40000040	Characteristics
+	.data
+		0x10a8		Virtual Size
+		0xd000		Virtual Address
+		0xc00		Size Of Raw Data
+		0xb200		Pointer To Raw Data
+		0x0		Pointer To Relocations
+		0x0		Pointer To Line Numbers
+		0x0		Number Of Relocations
+		0x0		Number Of Line Numbers
+		0xc0000040	Characteristics
+	.pdata
+		0x888		Virtual Size
+		0xf000		Virtual Address
+		0xa00		Size Of Raw Data
+		0xbe00		Pointer To Raw Data
+		0x0		Pointer To Relocations
+		0x0		Pointer To Line Numbers
+		0x0		Number Of Relocations
+		0x0		Number Of Line Numbers
+		0x40000040	Characteristics
+	.rsrc
+		0x9b8		Virtual Size
+		0x10000		Virtual Address
+		0xa00		Size Of Raw Data
+		0xc800		Pointer To Raw Data
+		0x0		Pointer To Relocations
+		0x0		Pointer To Line Numbers
+		0x0		Number Of Relocations
+		0x0		Number Of Line Numbers
+		0x40000040	Characteristics
+	.reloc
+		0x148		Virtual Size
+		0x11000		Virtual Address
+		0x200		Size Of Raw Data
+		0xd200		Pointer To Raw Data
+		0x0		Pointer To Relocations
+		0x0		Pointer To Line Numbers
+		0x0		Number Of Relocations
+		0x0		Number Of Line Numbers
+		0x42000040	Characteristics

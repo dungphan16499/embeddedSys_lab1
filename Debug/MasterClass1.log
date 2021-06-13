@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\dungphan16499\source\repos\Masterclass1\Source.cpp(154,44): warning C4244:  '=': conversion from 'unsigned __int64' to 'char', possible loss of data
+C:\Users\dungphan16499\source\repos\Masterclass1\Source.cpp(156,44): warning C4244:  '=': conversion from 'unsigned __int64' to 'char', possible loss of data
+C:\Users\dungphan16499\source\repos\Masterclass1\Source.cpp(158,44): warning C4244:  '=': conversion from 'unsigned __int64' to 'char', possible loss of data
+C:\Users\dungphan16499\source\repos\Masterclass1\Source.cpp(162,44): warning C4244:  '=': conversion from 'unsigned __int64' to 'char', possible loss of data
+C:\Users\dungphan16499\source\repos\Masterclass1\Source.cpp(171,47): warning C4244:  '=': conversion from 'unsigned __int64' to 'char', possible loss of data
+C:\Users\dungphan16499\source\repos\Masterclass1\Source.cpp(173,47): warning C4244:  '=': conversion from 'unsigned __int64' to 'char', possible loss of data
+C:\Users\dungphan16499\source\repos\Masterclass1\Source.cpp(175,47): warning C4244:  '=': conversion from 'unsigned __int64' to 'char', possible loss of data
+C:\Users\dungphan16499\source\repos\Masterclass1\Source.cpp(179,47): warning C4244:  '=': conversion from 'unsigned __int64' to 'char', possible loss of data
+C:\Users\dungphan16499\source\repos\Masterclass1\Source.cpp(19,24): warning C4101:  'importSection': unreferenced local variable
+  MasterClass1.vcxproj -> C:\Users\dungphan16499\source\repos\Masterclass1\Debug\MasterClass1.exe
